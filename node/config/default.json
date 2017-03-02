@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "a16ce24921015fb6b1f5afa6ad5cc7fa",
+    "pageAccessToken": "EAAD2CxKTaUABAFFzi0bg5jjEZCmuZAIVlGHb4iQPAUH3tbw6k7YLggXbHLzXQCWCVOPCsTpzZB0luuLvblU0IgxEhiJC4yBeGCER0VbReGGPo5gZCErH1xKxMnwk0hKU8U8b6CrQW5vZBQwxdltWVKeWK3xV7buqhZB3RzMRKpKgZDZD",
+    "validationToken": "shrouded-eyrie-12934",
+    "serverURL": "https://shrouded-eyrie-12934.herokuapp.com"
 }
